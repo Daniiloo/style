@@ -1,0 +1,9 @@
+<style>
+.mystyle {
+	color:#0000ff;
+	font-size:50 pt;
+}
+</style>
+<div onclick="alert('Error')" class="mystyle">
+click
+</div>
